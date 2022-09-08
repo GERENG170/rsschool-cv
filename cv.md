@@ -1,5 +1,5 @@
 # Artur Herenh
-![my-photo](/photo.jpg "my photo")
+![my-photo](/photo.jpg "my photo"){:height="200px" width="150px"}.
 ### Junior Frontend Developer
 ********* 
 ### Contacts :
