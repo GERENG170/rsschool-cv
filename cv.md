@@ -13,6 +13,7 @@
 ### About Me
 Hello. I am 22 years old. I've been programming for 4 years now. The first 3 years there was no result, because I did not exercise regularly. I just studied something and decided for the soul. Before front-end I studied java and after python. Touching them, I realized that this is not mine yet.I have been studying front-end for the last year. And it seems to me that I succeeded in this. I am currently learning react and typescript. It used to be my hobby. But my dream is to make programming my profession.
 Currently I am writing my educational projects on react, typescript. I have them on github
+
 ********* 
 ### Skills
 * HTML5
@@ -116,4 +117,3 @@ function formatDuration (seconds) {
 * **Belorussian** - Native
 * **English** - В1 (Underground language club)
 * **Polish** - A2
-end
