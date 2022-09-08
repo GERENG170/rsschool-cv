@@ -1,13 +1,14 @@
 # Artur Herenh
-![my-photo](/photo.png "my photo").
+![my-photo](/photo.jpg "my photo")
 ### Junior Frontend Developer
 ********* 
 ### Contacts :
 * **Phone:** +375 (29) 538-34-05
 * **E-mail:** artur.herenh2000@gmail.com
 * **LinkedIn:** www.linkedin.com/in/artur-gereng
-* **GitHub:** github.com/GERENG170
+* **GitHub:** www.github.com/GERENG170
 * **Discord:** Artur Herenh(@GERENG170)
+
 ********* 
 ### About Me
 Hello. I am 22 years old. I've been programming for 4 years now. The first 3 years there was no result, because I did not exercise regularly. I just studied something and decided for the soul. Before front-end I studied java and after python. Touching them, I realized that this is not mine yet.I have been studying front-end for the last year. And it seems to me that I succeeded in this. I am currently learning react and typescript. It used to be my hobby. But my dream is to make programming my profession.
@@ -24,10 +25,12 @@ Currently I am writing my educational projects on react, typescript. I have them
 * Git
 * Figma
 * JSON server
+
 ********* 
 ### Last projects
 * github.com/GERENG170/reactHooksTD **(react,hooks,ts,webpack,babel,json-server)**
 * github.com/GERENG170/SKBoocks  **(react,ts,webpack,babel,scss)**
+
 ********* 
 ### Code Examples
 #### Human readable duration format from CODEWARS:
@@ -98,13 +101,15 @@ function formatDuration (seconds) {
 ```
 ********* 
 ### Experience
-* **Itransition | trainee ROR developer**
+* **Itransition** trainee ROR developer
+
 ********* 
 ### Education
 * **BSUIR - Minsk Radio Engineering College** 
 * **Itransition - trainee ROR developer**
 * **Underground language club - english**
 * **Udemy - JavaScript + React**
+
 ********* 
 ### Languages
 * **Russian** - Native
