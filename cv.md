@@ -116,3 +116,4 @@ function formatDuration (seconds) {
 * **Belorussian** - Native
 * **English** - В1 (Underground language club)
 * **Polish** - A2
+end
