@@ -101,14 +101,13 @@ function formatDuration (seconds) {
 * **Itransition | trainee ROR developer**
 ********* 
 ### Education
-* **BSUIR | Minsk Radio Engineering College** 
-* **Itransition | trainee ROR developer**
-* **Underground language club | english**
-* **Udemy | JavaScript + React**
+* **BSUIR - Minsk Radio Engineering College** 
+* **Itransition - trainee ROR developer**
+* **Underground language club - english**
+* **Udemy - JavaScript + React**
 ********* 
 ### Languages
 * **Russian** - Native
 * **Belorussian** - Native
 * **English** - В1 (Underground language club)
 * **Polish** - A2
-********* 
